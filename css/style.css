@@ -1,0 +1,358 @@
+body{}
+.menuber{
+    display: inline-flex;
+    
+    
+}
+.logo{
+    
+}
+.logo img{
+    width: 80px;
+}
+.menu{
+    display: inline-flex;
+    margin-left: 768px;
+    
+  
+}
+.menu nav{}
+.menu nav ul{}
+.menu nav ul li{
+    display: inline;
+}
+.menu nav ul li a{
+    color:black;
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+    background: orange;
+    font-weight: 700;
+
+}
+.menu nav ul li a:hover{
+    background: pink;
+}
+.menuone{
+    padding: 10px;
+    background: orange;
+    font-weight: 700;
+    border: none;
+}
+.menulog{
+   
+}
+.menulog button{
+    background: rgb(20, 175, 142);
+    font-weight: 700;
+    padding: 10px;
+    margin-top: 15px;
+    margin-left: 100px;
+}
+.slider{
+    background: navajowhite;
+    
+  
+}
+.slcontent{
+    width: 300px;
+    background: #000000a6;
+    padding: 50px;
+    box-shadow: 6px 7px 7px black, -6px -6px 5px #912a2a;
+    margin-left: 570px;
+    border-top-left-radius: 25px;
+    margin-top: 100px;
+    
+}
+.slcontent h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    color:  #3be961;
+}
+.slcontent p{
+    text-align: justify;
+    color: #fff;
+
+}
+.slcontent button{
+    width: 300px;
+    padding: 10px;
+    text-transform: uppercase;
+    border-radius: 15px;
+    background: lightseagreen
+}
+.content{
+    width: 300px;
+    background: orange;
+    padding: 10px;
+    margin-left:30px;
+    
+}
+.content img{
+    width: 100px;
+    height: 200px;
+}
+.content h1{
+    text-align: center;
+}
+.content p{
+    text-align: justify;
+}
+.content button{
+    width: 300px;
+    text-transform: uppercase;
+    background: green;
+    padding: 10px;
+    border-radius: 15px;
+}
+.red{
+    background: url(../images/16.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 700px;
+}
+.green{
+    background: url(../images/slider3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 600px;
+}
+.blue{
+    background: url(../images/Slider2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 700px;
+}
+.purple{
+    background: url(../images/Slider1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 700px;
+}
+.service{
+    display: inline-flex;
+    padding: 10px;
+}
+.sone{
+    
+    width: 300px;
+    background: orange;
+    padding: 37px;
+    border: 5px solid black;
+}
+.sone img{
+    width: 300px;
+    height: 300px;
+}
+.sone h1{
+    text-align: center;
+    padding: 10px;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.sone p{
+    text-align: justify;
+    font-family: 'Pacifico', cursive;
+    padding: 10px;
+}
+.sone button{
+    width: 300px;
+    padding: 10px;
+    border-radius: 15px;
+    text-transform: uppercase;
+    background: darkgreen;
+}
+.clientReviue{
+    width: 64%;
+    background: peru;
+    padding: 43px;
+    border-radius: 93px;
+    margin-top: 15px;
+    margin-left: 248px;
+    margin-bottom: 20px;
+}
+.reviue p{
+    font-family: 'Pacifico', cursive;
+}
+.reviue h2{
+    margin-left: 494px;
+    font-size: 15px;
+    margin-left: 88%;
+}
+.footer{
+    background: skyblue;
+    font-weight: 600px;
+    text-transform: uppercase;
+    padding: 10px;
+    color:#912a2a;
+    text-align: center;
+}
+.mapp{}
+.mapp iframe{
+    width: 100%;
+    height: 500px;
+}
+
+
+
+@media only screen and (min-width:320px) and (max-widrh:425px){
+body{}
+.menuber{
+   
+    
+}
+.logo{
+    
+}
+.logo img{
+   
+}
+.menu{
+    
+  
+}
+.menu nav{}
+.menu nav ul{}
+.menu nav ul li{
+   
+}
+.menu nav ul li a{
+    
+
+}
+.menu nav ul li a:hover{
+   
+}
+.menuone{
+  
+}
+.menulog{
+   
+}
+.menulog button{
+   
+}
+.slider{
+    
+    
+  
+}
+.slcontent{
+   
+    
+}
+.slcontent h1{
+   
+}
+.slcontent p{
+    
+
+}
+.slcontent button{
+    
+}
+.content{
+   
+    
+}
+.content img{
+    
+}
+.content h1{
+    
+}
+.content p{
+   
+}
+.content button{
+    
+}
+.red{
+    background: url(../images/16.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 700px;
+}
+.green{
+    background: url(../images/slider3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 600px;
+}
+.blue{
+    background: url(../images/Slider2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 700px;
+}
+.purple{
+    background: url(../images/Slider1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 700px;
+}
+.service{
+    display: inline-flex;
+    padding: 10px;
+}
+.sone{
+    
+    width: 300px;
+    background: orange;
+    padding: 37px;
+    border: 5px solid black;
+}
+.sone img{
+    width: 300px;
+    height: 300px;
+}
+.sone h1{
+    text-align: center;
+    padding: 10px;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.sone p{
+    text-align: justify;
+    font-family: 'Pacifico', cursive;
+    padding: 10px;
+}
+.sone button{
+    width: 300px;
+    padding: 10px;
+    border-radius: 15px;
+    text-transform: uppercase;
+    background: darkgreen;
+}
+.clientReviue{
+    width: 64%;
+    background: peru;
+    padding: 43px;
+    border-radius: 93px;
+    margin-top: 15px;
+    margin-left: 248px;
+    margin-bottom: 20px;
+}
+.reviue p{
+    font-family: 'Pacifico', cursive;
+}
+.reviue h2{
+    margin-left: 494px;
+    font-size: 15px;
+    margin-left: 88%;
+}
+.footer{
+    background: skyblue;
+    font-weight: 600px;
+    text-transform: uppercase;
+    padding: 10px;
+    color:#912a2a;
+    text-align: center;
+}
+.mapp{}
+.mapp iframe{
+    width: 100%;
+    height: 500px;
+}
+}
